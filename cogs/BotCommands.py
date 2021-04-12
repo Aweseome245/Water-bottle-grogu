@@ -20,6 +20,16 @@ class BotCommands(commands.Cog):
         await ctx.send("Tune in next time for the next update from Aweseome245!")
 
     @commands.command(
+        name='changelog',
+        description='Posts the current version of Grogu and all changes')
+    async def changelog(self, ctx):
+        """Grogu version and changes"""
+        changelog = open("changelog.txt", "r")
+        newLog = changelog.read()
+        changelog.close()
+        await ctx.send(newLog)
+
+    @commands.command(
         name='devon',
         description='Use this command to see whether Aweseome245 is available or not!')
     async def changelog(self, ctx):

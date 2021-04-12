@@ -2,5 +2,3 @@ discord.py
 asyncio
 praw
 youtube_dl
-random
-time

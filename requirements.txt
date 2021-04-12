@@ -1,8 +1,5 @@
-git+https://github.com/Rapptz/discord.py
-urllib.parse
-urllib.request
-re
-asynctio
+discord.py
+asyncio
 praw
 youtube_dl
 random

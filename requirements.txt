@@ -1,4 +1,5 @@
 discord.py
+discord.py[voice]
 asyncio
 praw
 youtube_dl

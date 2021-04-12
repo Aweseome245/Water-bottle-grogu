@@ -26,6 +26,7 @@ class BotCommands(commands.Cog):
         """Checks whether the developer of the bot is available."""
         devOn = open("devon.txt", "r")
         aweseome245on = devOn.read()
+        devon.close()
         if aweseome245on == "0":
             await ctx.send("My developer is currently not online, but has left me running.")
         elif aweseome245on == "1":

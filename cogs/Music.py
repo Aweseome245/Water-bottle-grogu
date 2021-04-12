@@ -9,6 +9,8 @@ from discord.utils import get
 
 FFMPEG_OPTIONS = {'before_options': '-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5', 'options': '-vn'}
 
+discord.opus.load_opus()
+
 VCleave = 0
 
 def convert(arg):

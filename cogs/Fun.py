@@ -55,9 +55,9 @@ class Fun(commands.Cog):
     async def changelog(self, ctx):
         """CLONES"""
         clones = open("clones.txt", "r")
-        newclones = clones.read()
+        for x in clones:
+            await ctx.send(x)
         clones.close()
-        await ctx.send(newclones)
 
 def setup(bot):
     bot.add_cog(Fun(bot))

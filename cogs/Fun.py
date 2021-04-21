@@ -49,5 +49,15 @@ class Fun(commands.Cog):
         """Force hydration."""
         await ctx.send('{} has been splashed!'.format(arg))
 
+    @commands.command(
+        name='clones',
+        description='Every single clone, in alphabetical order.')
+    async def changelog(self, ctx):
+        """CLONES"""
+        clones = open("clones.txt", "r")
+        newclones = clones.read()
+        clones.close()
+        await ctx.send(newclones)
+
 def setup(bot):
     bot.add_cog(Fun(bot))

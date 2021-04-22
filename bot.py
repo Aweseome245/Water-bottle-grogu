@@ -8,7 +8,7 @@ import youtube_dl
 from discord.ext import commands
 from discord.utils import get
 
-client = commands.Bot(command_prefix='w!',
+client = commands.Bot(command_prefix=['w!', "W!"],
                       description="VC, Reddit, randomness, you want it? It's yours my friend.\n As long as you have this bot on your server.")
 
 client.load_extension("cogs.BotCommands")

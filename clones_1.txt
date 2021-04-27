@@ -65,37 +65,4 @@
     Boro
     Boss
     Bouncer
-    Bow
-    Bravo 4
-    Breaker
-    Breaker (Breakout Squad)
-    Bren
-    Broadside
-    Brolis
-    Bry
-    Burner
-    Buzz
-    Byl
-    Cale
-    Cameron
-    Can
-    Cannon
-    Cards
-    Carg
-    CC-01/425
-    CC-4816
-    Chainly
-    Chaos
-    Charger
-    Charlie
-    Chatter
-    Chatter (radio communications)
-    Chatterbox
-    Checkers
-    Chi 178
-    Chi 987
-    Chopper
-    CL-33/890
-    Clanky
-    Climber
-    Close-Shave
+    Bow

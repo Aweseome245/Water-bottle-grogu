@@ -1,101 +1,68 @@
-    Husk
-    Inc
-    Ince
-    Ion Team's comlink specialist
-    Iota 432
-    Jag (Jai'galaar)
-    Jaing Skirata
-    Jangotat
-    Jark
-    Jax
-    Jay
-    Jayk
-    Jek
-    Jek-14
-    Jenks
-    Jesse
-    Jester
-    Jester (ARC trooper)
-    Jet
-    Jez
-    Jind
-    Jinx
-    Joc
-    Joker
-    Jorir
-    Justice
-    Kaddak
-    Kagi
-    Kano
-    Kappa 429
-    Kappa 473
-    Kappa 773
-    Kaylon
-    KE-829
-    Keeli
-    Kef
-    Keller
-    Kickback
-    Kicker
-    Killer
-    King
-    Kite
-    Kix
-    Klick
-    Knuckles
-    Knuckles (182nd Legion)
-    Koho
-    Kom'rk Skirata
-    Korbel
-    Kosmos
-    Kupe
-    Lassar
-    Law
-    Levet
-    Lex
-    Lio
-    Lock
-    Lock (Breakout Squad)
-    Longshot
-    Lost Prophet
-    Lucky
-    Lunn
-    Mad Clone of Kaikielius
-    Mack
-    Mag
-    Mapper
-    Marrt
-    Mar'ek
-    Matchstick
-    Maze
-    Menace
-    Mereel Skirata
-    Mixer
-    Mixx
-    Mojo
-    Monnk
-    Mort
-    Mortar
-    Moz
-    Mu 262
-    Muzzle
-    Nax
-    Neyo
-    Nilo
-    Niner (Vassek moon)
-    Niner Skirata
-    No-Nines
-    NT-311
-    Nu 783
-    Nub
-    Nye
-    O'Niner
-    O-Four
-    Oake
-    Olun
-    Omega 370
-    Omikron 621
-    Ordo Skirata
-    Orion
-    Ox
-    Oz
+    Draa
+    Drak
+    Drayk
+    Droidbait
+    Dropkick
+    DV-523
+    Dyre
+    Echo
+    Edge
+    Engle
+    Ennen
+    Epsilon 234
+    Epsilon 497
+    Epsilon 905
+    Evader
+    Eyeball
+    Faie
+    Falco
+    Fi (clone trooper)
+    Fil
+    Fil (clone trooper)
+    Fireball
+    Fi Skirata
+    Five-Seven
+    Fives
+    Fixer
+    Fixer (cold assault trooper)
+    Flak
+    Flanker
+    Flash
+    Flashpoint
+    Flybane
+    Flyby
+    Fordo
+    Forr
+    Forry
+    Four-Nine
+    Four-One
+    Fox
+    Fox (Order 66)
+    Freedom
+    Frost
+    Fury
+    Fyn
+    Gaffa
+    Galle
+    Gamma 022
+    Gamma 264
+    Gamma 785
+    Gamma 789
+    Gamma 935
+    Gamma Five
+    Gamma Four
+    Gamma One
+    Gamma Three
+    Gamma Two
+    Ganch
+    Gar'ika
+    Gearshift
+    Gearshift's comrade
+    Ged
+    Gett
+    Getter
+    Ghost
+    Glitch
+    Goji
+    Gold Leader (Anaxes)
+    Gold Leader (Muunilinst)

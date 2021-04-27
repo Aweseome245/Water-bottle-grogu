@@ -1,101 +1,68 @@
-    Unidentified clone trooper commander (Chrisophsis)
-    Unidentified clone trooper commander (Gyndine moon)
-    Unidentified clone trooper commander (Hitaka)
-    Unidentified clone trooper commander (Hypermatter refinery)
-    Unidentified clone trooper commander (Impavid)
-    Unidentified clone trooper commander (Jedi Temple)
-    Unidentified clone trooper commander (Malastare)
-    Unidentified clone trooper commander (Separatist factory)
-    Unidentified clone trooper commander (Unidentified planet)
-    Unidentified clone trooper commander (Viidaav)
-    Unidentified clone trooper commander (Zeffo)
-    Unidentified clone trooper gunner (14th Infantry)
-    Unidentified clone trooper lieutenant
-    Unidentified clone trooper lieutenant (501st Legion)
-    Unidentified clone trooper lieutenant (Medica)
-    Unidentified clone trooper lieutenant (Pols Anaxes camp)
-    Unidentified clone trooper lieutenant (Sarrish)
-    Unidentified clone trooper lieutenant pilot
-    Unidentified clone trooper medic (Shinarcan Bridge)
-    Unidentified clone trooper officer
-    Unidentified clone trooper pilot
-    Unidentified clone trooper pilot (14th Infantry)
-    Unidentified clone trooper pilot (Bothawui)
-    Unidentified clone trooper pilot (Florrum)
-    Unidentified clone trooper pilot (Geonosis)
-    Unidentified clone trooper pilot (Kadavo)
-    Unidentified clone trooper pilot (Malastare)
-    Unidentified clone trooper pilot (Mandalore)
-    Unidentified clone trooper pilot (Rodia)
-    Unidentified clone trooper pilot (Vanqor)
-    Unidentified clone trooper pilot (Yerbana)
-    Unidentified clone trooper pilot 1 (Consular-class cruiser)
-    Unidentified clone trooper pilot 1 (Quell)
-    Unidentified clone trooper pilot 1 (Ringo Vinda)
-    Unidentified clone trooper pilot 2 (Bothawui)
-    Unidentified clone trooper pilot 2 (Consular-class cruiser)
-    Unidentified clone trooper pilot 2 (Quell)
-    Unidentified clone trooper pilot 2 (Ringo Vinda)
-    Unidentified clone trooper pilot 2 (Rodia)
-    Unidentified clone trooper pilot 3 (Bothaqui)
-    Unidentified clone trooper pilot (Obi-Wan Kenobi's fleet)
-    Unidentified clone trooper pilot 3 (Ringo Vinda)
-    Unidentified clone trooper pilot 4 (Ringo Vinda)
-    Unidentified clone trooper pilot 5 (Ringo Vinda)
-    Unidentified clone trooper pilot 6 (Ringo Vinda)
-    Unidentified clone trooper pilot 7 (Ringo Vinda)
-    Unidentified clone trooper pilot captain (Second Battle of Geonosis)
-    Unidentified clone trooper pilot captain (Tranquility)
-    Unidentified clone trooper scout
-    Unidentified clone trooper sergeant
-    Unidentified clone trooper sergeant (14th Infantry)
-    Unidentified clone trooper sergeant (501st Legion)
-    Unidentified clone trooper sergeant (Coruscant patrol)
-    Unidentified clone trooper sergeant (Malastare)
-    Unidentified clone trooper sergeant (Timira City)
-    Unidentified clone trooper sergeant medic
-    Unidentified commander (Christophsis rescue mission)
-    Unidentified Coruscant Guard (camera monitor)
-    Unidentified Coruscant Guard (Chancellor's Office)
-    Unidentified Coruscant Guard (guard platform)
-    Unidentified Coruscant Guard (Naboo)
-    Unidentified Coruscant Guard (prison balcony)
-    Unidentified Coruscant Guard (prison entrance)
-    Unidentified Coruscant Guard (Tano's escape)
-    Unidentified Coruscant Guard (Ziro's escort)
-    Unidentified Coruscant Guard 1 (prison corridor)
-    Unidentified Coruscant Guard 1 (prison riot)
-    Unidentified Coruscant Guard 2 (prison corridor)
-    Unidentified Coruscant Guard 2 (prison riot)
-    Unidentified Coruscant Guard 3 (prison riot)
-    Unidentified Coruscant Guard 4 (prison riot)
-    Unidentified Coruscant Guard heavy weapons specialist 1 (Scipio)
-    Unidentified Coruscant Guard heavy weapons specialist 2 (Scipio)
-    Unidentified Coruscant Guard sergeant
-    Unidentified Doom's Unit clone trooper (plasma welder)
-    Unidentified Doom's Unit clone trooper 1 (Ringo Vinda)
-    Unidentified Doom's Unit clone trooper 2 (Ringo Vinda)
-    Unidentified Doom's Unit heavy weapons specialist 1 (Ringo Vinda)
-    Unidentified Doom's Unit heavy weapons specialist 2 (Ringo Vinda)
-    Unidentified Green Company Clone Commander
-    Unidentified Green Company trooper
-    Unidentified Horn Company trooper
-    Unidentified Jet's Unit clone trooper 1
-    Unidentified Jet's Unit clone trooper 2
-    Unidentified Jet's Unit clone trooper 3
-    Unidentified Jet's Unit clone flame trooper 1
-    Unidentified Jet's Unit clone flame trooper 2
-    Unidentified Jet's Unit clone flame trooper 3
-    Unidentified Juma-9 Squad clone trooper
-    Unidentified Kamino Security Team clone trooper 1
-    Unidentified Kamino Security Team clone trooper 2
-    Unidentified Kamino Security Team clone trooper 3
-    Unidentified Kamino Security Team officer
-    Unidentified Keeli's Company clone trooper 1
-    Unidentified Keeli's Company clone trooper 2
-    Unidentified Lightning Squadron trooper (Ryloth)
-    Unidentified Mojo's Unit clone trooper 1
-    Unidentified Mojo's Unit clone trooper 2
-    Unidentified Mojo's Unit clone trooper 3
-    Unidentified Mojo's Unit clone trooper 4
-    Unidentified Muunilinst 10 clone trooper 1
+    Theta 269
+    Theta 687
+    Thill
+    Thire
+    Thorn
+    Three-Five
+    Threepwood
+    Throttle
+    TK-119
+    TK-3388
+    TK-421
+    TK-422
+    TK-622
+    TK-875
+    TK-9091
+    Tojo
+    Toomer
+    Tooth
+    Torrent
+    Torrent Four
+    Trace
+    Tracer
+    Tracker
+    Tranquility clone trooper captain
+    Tranter
+    Trantos
+    Trap
+    Trapper
+    Trapper (Malastare)
+    Trauma
+    Trench (Gamma-383)
+    Treve
+    Trigger
+    Troy
+    Trueblood
+    Tucker
+    Tup
+    Turbo
+    Twelve
+    Twitch
+    Two-Eight
+    Tyto
+    Tyto (Bacta Company)
+    Unidentified 13th Battalion clone commander
+    Unidentified 187th Legion Clone Commander
+    Unidentified 187th Legion clone trooper
+    Unidentified 187th Legion clone trooper 2
+    Unidentified 187th Legion clone trooper 3
+    Unidentified 187th Legion marine
+    Unidentified 212th Attack Battalion Trooper (Umbara)
+    Unidentified 212th Attack Battalion clone trooper (Utapau)
+    Unidentified 212th Attack Battalion clone trooper 1(Umbara)
+    Unidentified 212th Attack Battalion clone trooper 1 (Yerbana)
+    Unidentified 212th Attack Battalion clone trooper 2 (Umbara)
+    Unidentified 212th Attack Battalion clone trooper 2 (Yerbana)
+    Unidentified 212th Attack Battalion clone trooper 3 (Umbara)
+    Unidentified 212th Attack Battalion clone trooper captain (Bandomeer)
+    Unidentified 212th Attack Battalion clone trooper sergeant (Ryloth)
+    Unidentified 35th Infantry clone trooper (Gaftikar)
+    Unidentified 501st Legion clone escort trooper 1 (Ringo Vinda)
+    Unidentified 501st Legion clone escort trooper 2 (Ringo Vinda)
+    Unidentified 501st Legion clone escort trooper 3 (Ringo Vinda)
+    Unidentified 501st Legion clone escort trooper 4 (Ringo Vinda)
+    Unidentified 501st Legion clone escort trooper 5 (Ringo Vinda)
+    Unidentified 501st Legion clone escort trooper 6 (Ringo Vinda)
+    Unidentified 501st Legion clone escort trooper 7 (Ringo Vinda)
+    Unidentified 501st Legion clone medical officer 1 (Ringo Vinda)
+    Unidentified 501st Legion clone medical officer 2 (Ringo Vinda)

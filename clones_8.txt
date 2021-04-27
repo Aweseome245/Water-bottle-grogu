@@ -1,101 +1,68 @@
-    Unidentified clone naval officer (Negotiator)
-    Unidentified clone naval officer (Patitite Pattuna)
-    Unidentified clone naval officer (Quell)
-    Unidentified clone naval officer (Ryloth)
-    Unidentified clone naval officer (Ryndellia)
-    Unidentified clone naval officer (Sanctuary III)
-    Unidentified clone naval officer (Sullust)
-    Unidentified clone naval officer (Ukio)
-    Unidentified clone naval officer (Valor)
-    Unidentified clone naval officer (Venator-class Star Destroyer)
-    Unidentified clone naval officer 1 (Saleucami)
-    Unidentified clone naval officer 2 (Anza)
-    Unidentified clone naval officer 2 (Citadel)
-    Unidentified clone naval officer 2 (Negotiator)
-    Unidentified clone naval officer 2 (Ryndellia)
-    Unidentified clone naval officer 2 (Saleucami)
-    Unidentified clone paratrooper (212th Attack Battalion)
-    Unidentified clone pilot A6
-    Unidentified clone scout trooper (Umbara)
-    Unidentified clone SCUBA commander
-    Unidentified clone SCUBA trooper (First Battle)
-    Unidentified clone SCUBA trooper (Second Battle)
-    Unidentified clone SCUBA trooper 2 (First Battle)
-    Unidentified clone SCUBA trooper 2 (Second Battle)
-    Unidentified clone sergeant (Amidala's transmission)
-    Unidentified clone sergeant (New Dawn)
-    Unidentified clone shock trooper (docks)
-    Unidentified clone stormtrooper
-    Unidentified clone stormtrooper gunner
-    Unidentified clone scout trooper (Kashyyyk)
-    Unidentified clone tank gunner (Bothawui)
-    Unidentified clone tank gunner (Felucia)
-    Unidentified clone tank gunner (Geonosis)
-    Unidentified clone tank gunner (Saleucami)
-    Unidentified clone trooper
-    Unidentified clone trooper (327th Star Corps)
-    Unidentified clone trooper (79's)
-    Unidentified clone trooper (Amedda's bodyguard)
-    Unidentified clone trooper (Anza)
-    Unidentified clone trooper (arm wrestle)
-    Unidentified clone trooper (Asuin)
-    Unidentified clone trooper (Brentaal IV)
-    Unidentified clone trooper (Brighthome)
-    Unidentified clone trooper (Christophsis)
-    Unidentified clone trooper (Citadel)
-    Unidentified clone trooper (commando cross-training)
-    Unidentified clone trooper (Endor)
-    Unidentified clone trooper (Endurance)
-    Unidentified clone trooper (Florrum)
-    Unidentified clone trooper (Geonosian kill)
-    Unidentified clone trooper (Geonosis)
-    Unidentified clone trooper (Gwori)
-    Unidentified clone trooper (Hailfire droid victim)
-    Unidentified clone trooper (Honoghr)
-    Unidentified clone trooper (Kaliida Shoals)
-    Unidentified clone trooper (Kamino)
-    Unidentified clone trooper (Kiros)
-    Unidentified clone trooper (Negotiator)
-    Unidentified clone trooper (Nelvaan)
-    Unidentified clone trooper (Oznek)
-    Unidentified clone trooper (Prosecutor torpedo bay)
-    Unidentified clone trooper (Resolute)
-    Unidentified clone trooper (Saleucami)
-    Unidentified clone trooper (Second Battle of Geonosis)
-    Unidentified clone trooper (TB-73)
-    Unidentified clone trooper (Third Battle of Kamino)
-    Unidentified clone trooper (Timira City)
-    Unidentified clone trooper (Tranquility)
-    Unidentified clone trooper (Triumphant)
-    Unidentified clone trooper (Twilight)
-    Unidentified clone trooper (Vassek moon)
-    Unidentified clone trooper (Ventress victim)
-    Unidentified clone trooper (video call)
-    Unidentified clone trooper 1 (Citadel)
-    Unidentified clone trooper 1 (Drongar)
-    Unidentified clone trooper 1 (Hadde Base)
-    Unidentified clone trooper 2 (Citadel)
-    Unidentified clone trooper 2 (Florrum)
-    Unidentified clone trooper 2 (Geonosis)
-    Unidentified clone trooper 2 (Gwori)
-    Unidentified clone trooper 2 (Hadde Base)
-    Unidentified clone trooper 2 (Kamino)
-    Unidentified clone trooper 2 (Kiros)
-    Unidentified clone trooper 2 (Prosecutor)
-    Unidentified clone trooper 2 (Ryloth)
-    Unidentified clone trooper 2 (Saleucami)
-    Unidentified clone trooper 2 (Vassek moon)
-    Unidentified clone trooper 2 (Triumphant)
-    Unidentified clone trooper 3 (Citadel)
-    Unidentified clone trooper 3 (Kamino)
-    Unidentified clone trooper 3 (Kiros)
-    Unidentified clone trooper 3 (Vassek moon)
-    Unidentified clone trooper 4 (Citadel)
-    Unidentified clone trooper captain
-    Unidentified clone trooper captain (Bandomeer)
-    Unidentified clone trooper captain (besieged moon)
-    Unidentified clone trooper captain (Bogden 3)
-    Unidentified clone trooper captain (Hoth)
-    Unidentified clone trooper captain (Hunter Squad)
-    Unidentified clone trooper captain (Tranquility)
-    Unidentified clone trooper commander (bank)
+    Sev (Lambda Squad)
+    Seven-Four
+    Sev's ARC trooper
+    Shadow Five
+    Shadow Four
+    Shadow Seven
+    Shadow Six
+    Shadow Ten
+    Shadow Three
+    Shadow Three (Kadavo)
+    Shadow Twelve
+    Shadow Twelve's gunner
+    Sharp
+    Sharp (Devil Dogs)
+    Shiv
+    Shock
+    Shooter
+    Sicko
+    Silver
+    Sinker
+    Sirty
+    Six-ten
+    Skifter
+    Sketch
+    Slammer
+    Slick
+    Slim
+    Slug
+    Soot
+    Spade
+    Spanner
+    Spar
+    Spark
+    Spitter
+    Splice
+    Sprint
+    Spots
+    Squawk
+    Stak
+    Stance
+    Stec
+    Sten
+    Sterling
+    Stinger
+    Stoker
+    Stone
+    Striker
+    Stripe
+    Styles
+    Sull
+    Swift
+    Switch
+    Swoop
+    Syke
+    Sync
+    Tacks
+    Tag
+    Taler
+    Tam
+    Tarvyn Lareka
+    Tau 378
+    Tau 616
+    Tau 753
+    Tavo
+    Tech
+    Tel
+    Tenn
+    Theta 198

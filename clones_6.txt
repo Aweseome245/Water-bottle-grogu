@@ -1,101 +1,68 @@
-    Spade
-    Spanner
-    Spar
-    Spark
-    Spitter
-    Splice
-    Sprint
-    Spots
-    Squawk
-    Stak
-    Stance
-    Stec
-    Sten
-    Sterling
-    Stinger
-    Stoker
-    Stone
-    Striker
-    Stripe
-    Styles
-    Sull
-    Swift
-    Switch
-    Swoop
-    Syke
-    Sync
-    Tacks
-    Tag
-    Taler
-    Tam
-    Tarvyn Lareka
-    Tau 378
-    Tau 616
-    Tau 753
-    Tavo
-    Tech
-    Tel
-    Tenn
-    Theta 198
-    Theta 269
-    Theta 687
-    Thill
-    Thire
-    Thorn
-    Three-Five
-    Threepwood
-    Throttle
-    TK-119
-    TK-3388
-    TK-421
-    TK-422
-    TK-622
-    TK-875
-    TK-9091
-    Tojo
-    Toomer
-    Tooth
-    Torrent
-    Torrent Four
-    Trace
-    Tracer
-    Tracker
-    Tranquility clone trooper captain
-    Tranter
-    Trantos
-    Trap
-    Trapper
-    Trapper (Malastare)
-    Trauma
-    Trench (Gamma-383)
-    Treve
-    Trigger
-    Troy
-    Trueblood
-    Tucker
-    Tup
-    Turbo
-    Twelve
-    Twitch
-    Two-Eight
-    Tyto
-    Tyto (Bacta Company)
-    Unidentified 13th Battalion clone commander
-    Unidentified 187th Legion Clone Commander
-    Unidentified 187th Legion clone trooper
-    Unidentified 187th Legion clone trooper 2
-    Unidentified 187th Legion clone trooper 3
-    Unidentified 187th Legion marine
-    Unidentified 212th Attack Battalion Trooper (Umbara)
-    Unidentified 212th Attack Battalion clone trooper (Utapau)
-    Unidentified 212th Attack Battalion clone trooper 1(Umbara)
-    Unidentified 212th Attack Battalion clone trooper 1 (Yerbana)
-    Unidentified 212th Attack Battalion clone trooper 2 (Umbara)
-    Unidentified 212th Attack Battalion clone trooper 2 (Yerbana)
-    Unidentified 212th Attack Battalion clone trooper 3 (Umbara)
-    Unidentified 212th Attack Battalion clone trooper captain (Bandomeer)
-    Unidentified 212th Attack Battalion clone trooper sergeant (Ryloth)
-    Unidentified 35th Infantry clone trooper (Gaftikar)
-    Unidentified 501st Legion clone escort trooper 1 (Ringo Vinda)
-    Unidentified 501st Legion clone escort trooper 2 (Ringo Vinda)
-    Unidentified 501st Legion clone escort trooper 3 (Ringo Vinda)
+    Kickback
+    Kicker
+    Killer
+    King
+    Kite
+    Kix
+    Klick
+    Knuckles
+    Knuckles (182nd Legion)
+    Koho
+    Kom'rk Skirata
+    Korbel
+    Kosmos
+    Kupe
+    Lassar
+    Law
+    Levet
+    Lex
+    Lio
+    Lock
+    Lock (Breakout Squad)
+    Longshot
+    Lost Prophet
+    Lucky
+    Lunn
+    Mad Clone of Kaikielius
+    Mack
+    Mag
+    Mapper
+    Marrt
+    Mar'ek
+    Matchstick
+    Maze
+    Menace
+    Mereel Skirata
+    Mixer
+    Mixx
+    Mojo
+    Monnk
+    Mort
+    Mortar
+    Moz
+    Mu 262
+    Muzzle
+    Nax
+    Neyo
+    Nilo
+    Niner (Vassek moon)
+    Niner Skirata
+    No-Nines
+    NT-311
+    Nu 783
+    Nub
+    Nye
+    O'Niner
+    O-Four
+    Oake
+    Olun
+    Omega 370
+    Omikron 621
+    Ordo Skirata
+    Orion
+    Ox
+    Oz
+    Parsec
+    Patch
+    Patches
+    Peel

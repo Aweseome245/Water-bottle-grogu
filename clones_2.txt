@@ -1,3 +1,36 @@
+    Bravo 4
+    Breaker
+    Breaker (Breakout Squad)
+    Bren
+    Broadside
+    Brolis
+    Bry
+    Burner
+    Buzz
+    Byl
+    Cale
+    Cameron
+    Can
+    Cannon
+    Cards
+    Carg
+    CC-01/425
+    CC-4816
+    Chainly
+    Chaos
+    Charger
+    Charlie
+    Chatter
+    Chatter (radio communications)
+    Chatterbox
+    Checkers
+    Chi 178
+    Chi 987
+    Chopper
+    CL-33/890
+    Clanky
+    Climber
+    Close-Shave
     Clutch
     Cody
     Colt
@@ -32,70 +65,4 @@
     CT-1710
     CT-1807
     CT-1977
-    CT-2005
-    CT-2006
-    CT-2110
-    CT-2312
-    CT-2504
-    CT-2602
-    CT-2711
-    CT-27-3555
-    CT-2805
-    CT-282-SD00001-983725138
-    CT-2901
-    CT-2911
-    CT-307
-    CT-327
-    CT-3423
-    CT-3632
-    CT-3636
-    CT-4/163
-    CT-4/619
-    CT-43/002
-    CT-5/373
-    CT-5/501
-    CT-57/11-9048
-    CT-66-3232
-    CT-66-3233
-    CT-66-3238
-    CT-66-3339
-    CT-802
-    CT-8770
-    CT-8863
-    CT-8867
-    CT-8868
-    CT-8869
-    CT-8910
-    CT-914
-    CT-915
-    CT-9779
-    CT-9/85
-    CT-9932
-    Cut
-    Cutter
-    Cutup
-    Dandy
-    Darman Skirata
-    Dash-1044
-    Dash-1129
-    Davijaan
-    DD
-    Deadeye
-    Dec
-    Del
-    Delta 23
-    Delta 32
-    Delta-42
-    Delta 607
-    Delta 855
-    Denal
-    Derel
-    Dev
-    Deviss
-    Dice
-    Digger
-    Di'kut
-    Ding
-    Dogma
-    Doom
-    Dom
+    CT-2005

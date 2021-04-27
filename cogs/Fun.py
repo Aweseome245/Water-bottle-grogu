@@ -54,19 +54,16 @@ class Fun(commands.Cog):
         description='Every single clone, in alphabetical order.')
     async def changelog(self, ctx):
         """CLONES"""
-        clones1 = open("clones1.txt", "r")
-        clones2 = open("clones2.txt", "r")
-        clones3 = open("clones3.txt", "r")
-        clones4 = open("clones4.txt", "r")
-        clones5 = open("clones5.txt", "r")
-        clones6 = open("clones6.txt", "r")
-        clones7 = open("clones7.txt", "r")
-        clones8 = open("clones8.txt", "r")
-        clones9 = open("clones9.txt", "r")
-        clones10 = open("clones10.txt", "r")
-        clones11 = open("clones11.txt", "r")
-        clones12 = open("clones12.txt", "r")
-        clones13 = open("clones13.txt", "r")
+        clones1 = open("clones_1.txt", "r")
+        clones2 = open("clones_2.txt", "r")
+        clones3 = open("clones_3.txt", "r")
+        clones4 = open("clones_4.txt", "r")
+        clones5 = open("clones_5.txt", "r")
+        clones6 = open("clones_6.txt", "r")
+        clones7 = open("clones_7.txt", "r")
+        clones8 = open("clones_8.txt", "r")
+        clones9 = open("clones_9.txt", "r")
+        clones10 = open("clones_10.txt", "r")
 
         cloneText1 = clones1.read()
         cloneText2 = clones2.read()
@@ -78,10 +75,7 @@ class Fun(commands.Cog):
         cloneText8 = clones8.read()
         cloneText9 = clones9.read()
         cloneText10 = clones10.read()
-        cloneText11 = clones11.read()
-        cloneText12 = clones12.read()
-        cloneText13 = clones13.read()
-        
+
         await ctx.send(cloneText1)
         await ctx.send(cloneText2)
         await ctx.send(cloneText3)
@@ -92,9 +86,6 @@ class Fun(commands.Cog):
         await ctx.send(cloneText8)
         await ctx.send(cloneText9)
         await ctx.send(cloneText10)
-        await ctx.send(cloneText11)
-        await ctx.send(cloneText12)
-        await ctx.send(cloneText13)
         
         clones1.close()
         clones2.close()
@@ -106,9 +97,6 @@ class Fun(commands.Cog):
         clones8.close()
         clones9.close()
         clones10.close()
-        clones11.close()
-        clones12.close()
-        clones13.close()
 
 def setup(bot):
     bot.add_cog(Fun(bot))

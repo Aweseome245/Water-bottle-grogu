@@ -69,6 +69,11 @@ class Fun(commands.Cog):
         clones13 = open("clones_13.txt", "r")
         clones14 = open("clones_14.txt", "r")
         clones15 = open("clones_15.txt", "r")
+        clones16 = open("clones_16.txt", "r")
+        clones17 = open("clones_17.txt", "r")
+        clones18 = open("clones_18.txt", "r")
+        clones19 = open("clones_19.txt", "r")
+        clones20 = open("clones_20.txt", "r")
 
         cloneText1 = clones1.read()
         cloneText2 = clones2.read()
@@ -85,6 +90,11 @@ class Fun(commands.Cog):
         cloneText13 = clones13.read()
         cloneText14 = clones14.read()
         cloneText15 = clones15.read()
+        cloneText15 = clones16.read()
+        cloneText15 = clones17.read()
+        cloneText15 = clones18.read()
+        cloneText15 = clones19.read()
+        cloneText15 = clones20.read()
 
         await ctx.send(cloneText1)
         await ctx.send(cloneText2)
@@ -101,6 +111,11 @@ class Fun(commands.Cog):
         await ctx.send(cloneText13)
         await ctx.send(cloneText14)
         await ctx.send(cloneText15)
+        await ctx.send(cloneText16)
+        await ctx.send(cloneText17)
+        await ctx.send(cloneText18)
+        await ctx.send(cloneText19)
+        await ctx.send(cloneText20)
         
         clones1.close()
         clones2.close()
@@ -117,6 +132,11 @@ class Fun(commands.Cog):
         clones13.close()
         clones14.close()
         clones15.close()
+        clones16.close()
+        clones17.close()
+        clones18.close()
+        clones19.close()
+        clones20.close()
 
 def setup(bot):
     bot.add_cog(Fun(bot))

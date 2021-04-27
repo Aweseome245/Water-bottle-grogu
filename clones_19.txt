@@ -1,51 +1,34 @@
-    Unidentified Open Circle Fleet clone naval officer 6 (79's)
-    Unidentified Open Circle Fleet clone naval officer 7 (79's)
-    Unidentified Open Circle Fleet clone naval officer 1 (arm wrestle)
-    Unidentified Open Circle Fleet clone naval officer 2 (arm wrestle)
-    Unidentified Open Circle Fleet clone naval officer 1 (Toast)
-    Unidentified Open Circle Fleet clone naval officer 2 (Toast)
-    Unidentified Open Circle Fleet clone naval officer 3 (Toast)
-    Unidentified Open Circle Fleet clone naval officer 4 (Toast)
-    Unidentified Rancor Battalion clone trooper (Kamino)
-    Unidentified Rancor Battalion heavy weapons specialist (Kamino)
-    Unidentified Rancor Battalion heavy weapons specialist 2 (Kamino)
-    Unidentified Republic Navy captain
-    Unidentified Resolute naval officer (Kamino)
-    Unidentified Resolute naval officer (Ryloth)
-    Unidentified Resolute naval officer (of Sullust)
-    Unidentified Resolute naval officer (Kaliida Nebula)
-    Unidentified Resolute naval officer (Pre-Kamino)
-    Unidentified rookie clone trooper
-    Unidentified Shadow Squadron gunner
-    Unidentified Shadow Squadron pilot
-    Unidentified shock trooper 1 (79's)
-    Unidentified shock trooper 2 (79's)
-    Unidentified shock trooper 3 (79's)
-    Unidentified shock trooper 4 (79's)
-    Unidentified shock trooper 5 (79's)
-    Unidentified shock trooper (Scipio)
-    Unidentified shock trooper 2 (Scipio)
-    Unidentified stealth pilot
-    Unidentified Theta Squadron captain
-    Unidentified Theta Squadron clone commando 1
-    Unidentified Theta Squadron clone commando 2
-    Unidentified Theta Squadron clone commando 3
-    Unidentified Theta Squadron clone commando 4
-    Unidentified Torrent Company trooper (Biitu)
-    Unidentified Torrent Company trooper (Teth)
-    Unidentified Torrent Company trooper 2 (Teth)
-    Unidentified Triton Squad Advanced Recon Commando
-    Unidentified Triton Squad clone commando lieutenant
-    Unidentified Triton Squad clone stormtrooper
-    Unidentified Triton Squad clone trooper
-    Unidentified Triton Squad clone trooper 2
-    Unidentified Triton Squad clone trooper 3
-    Unidentified Triton Squad clone trooper 4
-    Unidentified Triton Squad clone trooper 5
-    Unidentified Triton Squad clone trooper 6
-    Unidentified Triton Squad clone trooper 7
-    Unidentified Triton Squad clone trooper 8
-    Unidentified Triton Squad clone trooper 9
-    Unidentified V-19 Torrent starfighter pilot
-    Unidentified Wolfpack clone communications officer (Malastare)
-    Upsilon 168
+    Unidentified 501st Legion clone trooper (Coronet)
+    Unidentified 501st Legion clone trooper (E-web)
+    Unidentified 501st Legion clone trooper (Yerbana)
+    Unidentified 501st Legion clone trooper (Jedi Temple)
+    Unidentified 501st Legion clone trooper (Yoda's saber throw)
+    Unidentified 501st Legion clone trooper 1 (Umbara)
+    Unidentified 501st Legion clone trooper 2 (Umbara)
+    Unidentified 501st Legion clone trooper 3 (Umbara)
+    Unidentified 501st Legion clone trooper 4 (Umbara)
+    Unidentified 501st Legion clone trooper 5 (Umbara)
+    Unidentified 501st Legion clone trooper 6 (Umbara)
+    Unidentified 501st Legion clone trooper 7 (Umbara)
+    Unidentified 501st Legion clone trooper 8 (Umbara)
+    Unidentified 501st Legion clone trooper 9 (Umbara)
+    Unidentified 501st Legion guard 1 (Ringo Vinda)
+    Unidentified 501st Legion guard 2 (Ringo Vinda)
+    Unidentified 501st Legion heavy weapons specialist 1 (Ringo Vinda)
+    Unidentified 501st Legion heavy weapons specialist 2 (Ringo Vinda)
+    Unidentified 501st Legion clone trooper sergeant
+    Unidentified 501st stormtrooper (first casualty)
+    Unidentified 501st stormtrooper 2
+    Unidentified 612th Attack Battalion clone trooper
+    Unidentified 91st clone trooper (Anaxes)
+    Unidentified 91st clone trooper 2 (Anaxes)
+    Unidentified 91st clone trooper lieutenant
+    Unidentified Advanced Recon Commando (Aridka)
+    Unidentified Advanced Recon Commando (intelligence officer)
+    Unidentified Advanced Recon Commando 1 (Kamino)
+    Unidentified Advanced Recon Commando 2 (Kamino)
+    Unidentified Advanced Recon Commando captain (Nadiem)
+    Unidentified Advanced Recon Commando commander (Aridka)
+    Unidentified Advanced Recon Commando commander (Nadiem)
+    Unidentified Advanced Recon Commando heavy gunner
+    Unidentified Advanced Recon Commando Lieutenant 1 (Hypori)

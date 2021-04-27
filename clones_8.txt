@@ -1,51 +1,34 @@
-    Lex
-    Lio
-    Lock
-    Lock (Breakout Squad)
-    Longshot
-    Lost Prophet
-    Lucky
-    Lunn
-    Mad Clone of Kaikielius
-    Mack
-    Mag
-    Mapper
-    Marrt
-    Mar'ek
-    Matchstick
-    Maze
-    Menace
-    Mereel Skirata
-    Mixer
-    Mixx
-    Mojo
-    Monnk
-    Mort
-    Mortar
-    Moz
-    Mu 262
-    Muzzle
-    Nax
-    Neyo
-    Nilo
-    Niner (Vassek moon)
-    Niner Skirata
-    No-Nines
-    NT-311
-    Nu 783
-    Nub
-    Nye
-    O'Niner
-    O-Four
-    Oake
-    Olun
-    Omega 370
-    Omikron 621
-    Ordo Skirata
-    Orion
-    Ox
-    Oz
-    Parsec
-    Patch
-    Patches
-    Peel
+    Forr
+    Forry
+    Four-Nine
+    Four-One
+    Fox
+    Fox (Order 66)
+    Freedom
+    Frost
+    Fury
+    Fyn
+    Gaffa
+    Galle
+    Gamma 022
+    Gamma 264
+    Gamma 785
+    Gamma 789
+    Gamma 935
+    Gamma Five
+    Gamma Four
+    Gamma One
+    Gamma Three
+    Gamma Two
+    Ganch
+    Gar'ika
+    Gearshift
+    Gearshift's comrade
+    Ged
+    Gett
+    Getter
+    Ghost
+    Glitch
+    Goji
+    Gold Leader (Anaxes)
+    Gold Leader (Muunilinst)

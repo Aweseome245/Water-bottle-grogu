@@ -1,51 +1,34 @@
-    Cody
-    Colt
-    Comet
-    Comet (ARC trooper)
-    Connor Freeman's father
-    Contrail
-    Cooker
-    Coric
-    Corr
-    Corvis
-    Cov
-    CR57
-    Crag
-    Crane
-    Crasher
-    Crazy Legs
-    CRC-09/571
-    Crest
-    Crosshair
-    Crys
-    CT-014/783
-    CT-1008
-    CT-1103
-    CT-1226
-    CT-1312
-    CT-1405
-    CT-1410
-    CT-1477
-    CT-1507
-    CT-1509
-    CT-1710
-    CT-1807
-    CT-1977
-    CT-2005
-    CT-2006
-    CT-2110
-    CT-2312
-    CT-2504
-    CT-2602
-    CT-2711
-    CT-27-3555
-    CT-2805
-    CT-282-SD00001-983725138
-    CT-2901
-    CT-2911
-    CT-307
-    CT-327
-    CT-3423
-    CT-3632
-    CT-3636
-    CT-4/163
+    Bravo 4
+    Breaker
+    Breaker (Breakout Squad)
+    Bren
+    Broadside
+    Brolis
+    Bry
+    Burner
+    Buzz
+    Byl
+    Cale
+    Cameron
+    Can
+    Cannon
+    Cards
+    Carg
+    CC-01/425
+    CC-4816
+    Chainly
+    Chaos
+    Charger
+    Charlie
+    Chatter
+    Chatter (radio communications)
+    Chatterbox
+    Checkers
+    Chi 178
+    Chi 987
+    Chopper
+    CL-33/890
+    Clanky
+    Climber
+    Close-Shave
+    Clutch

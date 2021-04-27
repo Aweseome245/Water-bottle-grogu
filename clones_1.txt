@@ -31,21 +31,4 @@
     Axe
     Ayar
     Bacara
-    Bammer
-    Banks
-    Baris
-    Barlex
-    Barr
-    Barrage
-    Basher
-    Bek
-    Bel
-    Bellow
-    Bellows
-    Beta 030
-    Beta 963
-    Big-Mouth
-    Blackout
-    Blasty
-    Blitz
-    Blue Leader
+    Bammer

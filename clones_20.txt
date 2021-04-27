@@ -1,38 +1,34 @@
-    Upsilon 733
-    Upsilon 941
-    Vaize
-    Valiant
-    Vargus
-    Vaughn
-    Ven (Kothlis)
-    Ven (Qiilura)
-    Vere
-    Vill
-    Vin
-    Voca
-    Warthog
-    Wave
-    Waxer
-    Whiplash
-    Wildfire
-    Wingnut
-    Wolffe
-    Wooley
-    Wrecker
-    Wrench
-    X1
-    X2
-    Xi 778
-    Xi 999
-    Xoni
-    Xutoo
-    Yellow Five
-    Yellow Leader
-    Yover
-    Zag
-    Zak
-    Zap
-    Zeer
-    Zeke
-    Zeta
-    Zeta 654
+    Unidentified Advanced Recon Commando Lieutenant 1 (Muunilinst)
+    Unidentified Advanced Recon Commando Lieutenant 2 (Hypori)
+    Unidentified Advanced Recon Commando Lieutenant 2 (Muunilinst)
+    Unidentified Advanced Recon Commando pilot
+    Unidentified Advanced Recon Force commando 2
+    Unidentified Advanced Recon Force trooper (Devaron)
+    Unidentified Advanced Recon Force trooper (Kamino)
+    Unidentified Advanced Recon Force trooper (Ryloth)
+    Unidentified Advanced Recon Force trooper (Umbara)
+    Unidentified Advanced Recon Force trooper 2 (Devaron)
+    Unidentified Advanced Recon Force trooper 2 (Kamino)
+    Unidentified Advanced Recon Force trooper 2 (Umbara)
+    Unidentified Advanced Recon Force trooper 3 (Kamino)
+    Unidentified Advanced Recon Force trooper 3 (Umbara)
+    Unidentified Advanced Recon Force trooper commander
+    Unidentified Advanced Recon Force trooper lieutenant
+    Unidentified air group commander
+    Unidentified Alpha Squad clone trooper
+    Unidentified ARC trooper
+    Unidentified ARC trooper commander
+    Unidentified Blue Squad commando 1
+    Unidentified Blue Squad commando 2
+    Unidentified Blue Squad commando 3
+    Unidentified Blue Squad sergeant
+    Unidentified Bogey Squad BARC trooper
+    Unidentified Captain of the Royal Guard
+    Unidentified clone (cremation center)
+    Unidentified clone (morgue)
+    Unidentified clone 2 (cremation center)
+    Unidentified clone 2 (morgue)
+    Unidentified clone 3 (cremation center)
+    Unidentified clone cadet
+    Unidentified clone cadet 2
+    Unidentified clone cadet 3

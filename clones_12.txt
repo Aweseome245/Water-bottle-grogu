@@ -1,51 +1,34 @@
-    Tooth
-    Torrent
-    Torrent Four
-    Trace
-    Tracer
-    Tracker
-    Tranquility clone trooper captain
-    Tranter
-    Trantos
-    Trap
-    Trapper
-    Trapper (Malastare)
-    Trauma
-    Trench (Gamma-383)
-    Treve
-    Trigger
-    Troy
-    Trueblood
-    Tucker
-    Tup
-    Turbo
-    Twelve
-    Twitch
-    Two-Eight
-    Tyto
-    Tyto (Bacta Company)
-    Unidentified 13th Battalion clone commander
-    Unidentified 187th Legion Clone Commander
-    Unidentified 187th Legion clone trooper
-    Unidentified 187th Legion clone trooper 2
-    Unidentified 187th Legion clone trooper 3
-    Unidentified 187th Legion marine
-    Unidentified 212th Attack Battalion Trooper (Umbara)
-    Unidentified 212th Attack Battalion clone trooper (Utapau)
-    Unidentified 212th Attack Battalion clone trooper 1(Umbara)
-    Unidentified 212th Attack Battalion clone trooper 1 (Yerbana)
-    Unidentified 212th Attack Battalion clone trooper 2 (Umbara)
-    Unidentified 212th Attack Battalion clone trooper 2 (Yerbana)
-    Unidentified 212th Attack Battalion clone trooper 3 (Umbara)
-    Unidentified 212th Attack Battalion clone trooper captain (Bandomeer)
-    Unidentified 212th Attack Battalion clone trooper sergeant (Ryloth)
-    Unidentified 35th Infantry clone trooper (Gaftikar)
-    Unidentified 501st Legion clone escort trooper 1 (Ringo Vinda)
-    Unidentified 501st Legion clone escort trooper 2 (Ringo Vinda)
-    Unidentified 501st Legion clone escort trooper 3 (Ringo Vinda)
-    Unidentified 501st Legion clone escort trooper 4 (Ringo Vinda)
-    Unidentified 501st Legion clone escort trooper 5 (Ringo Vinda)
-    Unidentified 501st Legion clone escort trooper 6 (Ringo Vinda)
-    Unidentified 501st Legion clone escort trooper 7 (Ringo Vinda)
-    Unidentified 501st Legion clone medical officer 1 (Ringo Vinda)
-    Unidentified 501st Legion clone medical officer 2 (Ringo Vinda)
+    Mereel Skirata
+    Mixer
+    Mixx
+    Mojo
+    Monnk
+    Mort
+    Mortar
+    Moz
+    Mu 262
+    Muzzle
+    Nax
+    Neyo
+    Nilo
+    Niner (Vassek moon)
+    Niner Skirata
+    No-Nines
+    NT-311
+    Nu 783
+    Nub
+    Nye
+    O'Niner
+    O-Four
+    Oake
+    Olun
+    Omega 370
+    Omikron 621
+    Ordo Skirata
+    Orion
+    Ox
+    Oz
+    Parsec
+    Patch
+    Patches
+    Peel

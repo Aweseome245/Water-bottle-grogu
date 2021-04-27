@@ -1,51 +1,34 @@
-    Draa
-    Drak
-    Drayk
-    Droidbait
-    Dropkick
-    DV-523
-    Dyre
-    Echo
-    Edge
-    Engle
-    Ennen
-    Epsilon 234
-    Epsilon 497
-    Epsilon 905
-    Evader
-    Eyeball
-    Faie
-    Falco
-    Fi (clone trooper)
-    Fil
-    Fil (clone trooper)
-    Fireball
-    Fi Skirata
-    Five-Seven
-    Fives
-    Fixer
-    Fixer (cold assault trooper)
-    Flak
-    Flanker
-    Flash
-    Flashpoint
-    Flybane
-    Flyby
-    Fordo
-    Forr
-    Forry
-    Four-Nine
-    Four-One
-    Fox
-    Fox (Order 66)
-    Freedom
-    Frost
-    Fury
-    Fyn
-    Gaffa
-    Galle
-    Gamma 022
-    Gamma 264
-    Gamma 785
-    Gamma 789
-    Gamma 935
+    CT-2006
+    CT-2110
+    CT-2312
+    CT-2504
+    CT-2602
+    CT-2711
+    CT-27-3555
+    CT-2805
+    CT-282-SD00001-983725138
+    CT-2901
+    CT-2911
+    CT-307
+    CT-327
+    CT-3423
+    CT-3632
+    CT-3636
+    CT-4/163
+    CT-4/619
+    CT-43/002
+    CT-5/373
+    CT-5/501
+    CT-57/11-9048
+    CT-66-3232
+    CT-66-3233
+    CT-66-3238
+    CT-66-3339
+    CT-802
+    CT-8770
+    CT-8863
+    CT-8867
+    CT-8868
+    CT-8869
+    CT-8910
+    CT-914

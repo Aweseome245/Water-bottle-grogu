@@ -1,51 +1,34 @@
-    Rookie
-    Ross
-    Rys
-    Salvo
-    Sandcat
-    Sarge
-    Sarge (commando)
-    Sarlacc-Face
-    Sconto's father
-    Scope
-    Scorch
-    Scraps
-    Scythe
-    Scythe (ARC trooper)
-    Seefor
-    Seeker
-    Sev
-    Sev (Lambda Squad)
-    Seven-Four
-    Sev's ARC trooper
-    Shadow Five
-    Shadow Four
-    Shadow Seven
-    Shadow Six
-    Shadow Ten
-    Shadow Three
-    Shadow Three (Kadavo)
-    Shadow Twelve
-    Shadow Twelve's gunner
-    Sharp
-    Sharp (Devil Dogs)
-    Shiv
-    Shock
-    Shooter
-    Sicko
-    Silver
-    Sinker
-    Sirty
-    Six-ten
-    Skifter
-    Sketch
-    Slammer
-    Slick
-    Slim
-    Slug
-    Soot
-    Spade
-    Spanner
-    Spar
-    Spark
-    Spitter
+    Ion Team's comlink specialist
+    Iota 432
+    Jag (Jai'galaar)
+    Jaing Skirata
+    Jangotat
+    Jark
+    Jax
+    Jay
+    Jayk
+    Jek
+    Jek-14
+    Jenks
+    Jesse
+    Jester
+    Jester (ARC trooper)
+    Jet
+    Jez
+    Jind
+    Jinx
+    Joc
+    Joker
+    Jorir
+    Justice
+    Kaddak
+    Kagi
+    Kano
+    Kappa 429
+    Kappa 473
+    Kappa 773
+    Kaylon
+    KE-829
+    Keeli
+    Kef
+    Keller

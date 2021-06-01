@@ -133,6 +133,7 @@ class Music(commands.Cog):
         description='Clears the queue.')
     async def clear(self, ctx):
         """Clears the queue"""
+        VCautoleave = 0
         VCqueue.clear()
         VCtitles.clear()
         nowPlayTitle.clear()
@@ -150,8 +151,10 @@ class Music(commands.Cog):
         if voice.is_playing():
             voice.pause()
             await ctx.send("Paused the music player.")
+            VCautoleave = 0
         else:
-            await ctx.send("Currently no audio is playing.")
+            await ctx.send("Currently no audio is playing.")'
+            VCautoleave = 0
 
     @commands.command(
         name='resume',
@@ -162,8 +165,10 @@ class Music(commands.Cog):
         if voice.is_paused():
             voice.resume()
             await ctx.send("Resumed the music player.")
+            VCautoleave = 0
         else:
             await ctx.send("The audio is not paused.")
+            VCautoleave = 0
 
     @commands.command(
         name='skip',
@@ -171,6 +176,7 @@ class Music(commands.Cog):
     async def stop(self, ctx):
         """Annoy your friends by skipping their favourite songs!"""
         voice = discord.utils.get(self.bot.voice_clients, guild=ctx.guild)
+        VCautoleave = 0
         voice.stop()
         await ctx.send("Skipped the current track.")
 
@@ -179,6 +185,7 @@ class Music(commands.Cog):
         description='Shows contents of queue (excluding currently playing).')
     async def queue(self, ctx):
         """Shows the queue (minus the currently playing. That's another command.)"""
+        VCautoleave = 0
         user = ctx.message.author
         pfp = user.avatar_url
         list_length = len(VCtitles)
@@ -195,6 +202,7 @@ class Music(commands.Cog):
         description='Shows the currently playing song.')
     async def nowplaying(self, ctx):
         """Shows the currently playing song. Even though you should know what it is already."""
+        VCautoleave = 0
         title = nowPlayTitle[0]
         length = nowPlayDuration[0]
         requester = nowPlayRequester[0]
@@ -214,6 +222,7 @@ class Music(commands.Cog):
         voice = discord.utils.get(self.bot.voice_clients, guild=ctx.guild)
         if voice.is_connected():
             await voice.disconnect()
+            VCautoleave = 0
             global VCleave
             VCleave = 69420
             voiceChannel=ctx.message.author.voice.channel
@@ -233,6 +242,7 @@ class Music(commands.Cog):
         description='In OrDeR tO eNsUrE tHe SeCuRiTy, AnD cOnTiNuInG sTaBiLiTy,')
     async def palpcrack(self, ctx):
         """Darth Sidious.exe is not responding"""
+        VCautoleave = 0
         voiceChannel=ctx.message.author.voice.channel
         voice = discord.utils.get(self.bot.voice_clients, guild=ctx.guild)
         if voice == None:
@@ -250,6 +260,7 @@ class Music(commands.Cog):
         description="I'm blue, da ba dee da ba die")
     async def bluegletranslate(self, ctx):
         """Google Translate sings the hit 90s song I'm Blue by Eiffel 65."""
+        VCautoleave = 0
         voiceChannel=ctx.message.author.voice.channel
         voice = discord.utils.get(self.bot.voice_clients, guild=ctx.guild)
         if voice == None:
@@ -267,6 +278,7 @@ class Music(commands.Cog):
         description='You know the rules, and so do I...')
     async def rickRoll(self, ctx):
         """You know the rules, and so do I..."""
+        VCautoleave = 0
         voiceChannel=ctx.message.author.voice.channel
         voice = discord.utils.get(self.bot.voice_clients, guild=ctx.guild)
         if voice == None:
@@ -284,6 +296,7 @@ class Music(commands.Cog):
         description='So we back in the mine...')
     async def revengetranslate(self, ctx):
         """Google Translate becomes an epic Minecraft Gamer and kills Technoblade"""
+        VCautoleave = 0
         voiceChannel=ctx.message.author.voice.channel
         voice = discord.utils.get(self.bot.voice_clients, guild=ctx.guild)
         if voice == None:
@@ -301,6 +314,7 @@ class Music(commands.Cog):
         description='TAKE THIS!')
     async def itsnouse(self, ctx):
         """Silver is my favourite Sonic character, and deserves to be here."""
+        VCautoleave = 0
         voiceChannel=ctx.message.author.voice.channel
         voice = discord.utils.get(self.bot.voice_clients, guild=ctx.guild)
         if voice == None:

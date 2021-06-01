@@ -11,6 +11,8 @@ FFMPEG_OPTIONS = {'before_options': '-reconnect 1 -reconnect_streamed 1 -reconne
 
 VCleave = 0
 
+VCautoleave = 0
+
 def convert(arg):
     min, sec = divmod(arg, 60)
     hour, min = divmod(min, 60)
@@ -99,6 +101,20 @@ class Music(commands.Cog):
                     await asyncio.sleep(1)
                 else:
                     await asyncio.sleep(3)
+                    VCautoleave += 3
+                    if VCautoleave == 900:
+                        await voice.disconnect()
+                        global VCleave
+                        VCleave = 69420
+                        voiceChannel=ctx.message.author.voice.channel
+                        voiceChannelStr = str(voiceChannel)
+                        VCqueue.clear()
+                        VCtitles.clear()
+                        nowPlayTitle.clear()
+                        nowPlayDuration.clear()
+                        nowPlayRequester.clear()
+                        nowPlayThumbnail.clear()
+                        await ctx.send("Left channel " + voiceChannelStr + ".")
                     VClength = len(VCqueue)
                     if VClength > 0:
                         voice.play(discord.FFmpegPCMAudio(VCqueue[0], **FFMPEG_OPTIONS))

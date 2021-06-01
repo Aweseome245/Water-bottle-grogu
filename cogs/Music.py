@@ -104,7 +104,6 @@ class Music(commands.Cog):
                     VCautoleave += 3
                     if VCautoleave == 900:
                         await voice.disconnect()
-                        global VCleave
                         VCleave = 69420
                         voiceChannel=ctx.message.author.voice.channel
                         voiceChannelStr = str(voiceChannel)

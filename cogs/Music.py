@@ -92,12 +92,15 @@ class Music(commands.Cog):
         while voice != None:
             global VCleave
             if VCleave == 69420:
+                VCautoleave = 0
                 VCleave = 0
                 break
             if voice.is_playing():
+                VCautoleave = 0
                 await asyncio.sleep(1)
             else:
                 if voice.is_paused():
+                    VCautoleave = 0
                     await asyncio.sleep(1)
                 else:
                     await asyncio.sleep(3)
@@ -153,7 +156,7 @@ class Music(commands.Cog):
             await ctx.send("Paused the music player.")
             VCautoleave = 0
         else:
-            await ctx.send("Currently no audio is playing.")'
+            await ctx.send("Currently no audio is playing.")
             VCautoleave = 0
 
     @commands.command(

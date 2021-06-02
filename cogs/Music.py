@@ -97,7 +97,6 @@ class Music(commands.Cog):
                 VCleave = 0
                 break
             if voice.is_playing():
-                global VCautoleave
                 VCautoleave = 0
                 await asyncio.sleep(1)
             else:

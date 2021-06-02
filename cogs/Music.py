@@ -101,12 +101,10 @@ class Music(commands.Cog):
                 await asyncio.sleep(1)
             else:
                 if voice.is_paused():
-                    global VCautoleave
                     VCautoleave = 0
                     await asyncio.sleep(1)
                 else:
                     await asyncio.sleep(3)
-                    global VCautoleave
                     VCautoleave += 3
                     if VCautoleave == 900:
                         await voice.disconnect()

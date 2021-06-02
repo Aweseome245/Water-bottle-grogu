@@ -176,7 +176,6 @@ class Music(commands.Cog):
             VCautoleave = 0
         else:
             await ctx.send("The audio is not paused.")
-            global VCautoleave
             VCautoleave = 0
 
     @commands.command(
@@ -249,6 +248,7 @@ class Music(commands.Cog):
             await ctx.send("Left channel " + voiceChannelStr + ".")
         else:
             await ctx.send("The bot is not connected to a voice channel.")
+            VCautoleave = 0
 
     @commands.command(
         name='palpcrack',

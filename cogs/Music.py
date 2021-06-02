@@ -92,18 +92,22 @@ class Music(commands.Cog):
         while voice != None:
             global VCleave
             if VCleave == 69420:
+                global VCautoleave
                 VCautoleave = 0
                 VCleave = 0
                 break
             if voice.is_playing():
+                global VCautoleave
                 VCautoleave = 0
                 await asyncio.sleep(1)
             else:
                 if voice.is_paused():
+                    global VCautoleave
                     VCautoleave = 0
                     await asyncio.sleep(1)
                 else:
                     await asyncio.sleep(3)
+                    global VCautoleave
                     VCautoleave += 3
                     if VCautoleave == 900:
                         await voice.disconnect()
@@ -119,6 +123,7 @@ class Music(commands.Cog):
                         await ctx.send("Left channel " + voiceChannelStr + ".")
                     VClength = len(VCqueue)
                     if VClength > 0:
+                        VCautoleave = 0
                         voice.play(discord.FFmpegPCMAudio(VCqueue[0], **FFMPEG_OPTIONS))
                         VCqueue.pop(0)
                         VCtitles.pop(0)
@@ -136,6 +141,7 @@ class Music(commands.Cog):
         description='Clears the queue.')
     async def clear(self, ctx):
         """Clears the queue"""
+        global VCautoleave
         VCautoleave = 0
         VCqueue.clear()
         VCtitles.clear()
@@ -154,6 +160,7 @@ class Music(commands.Cog):
         if voice.is_playing():
             voice.pause()
             await ctx.send("Paused the music player.")
+            global VCautoleave
             VCautoleave = 0
         else:
             await ctx.send("Currently no audio is playing.")
@@ -168,9 +175,11 @@ class Music(commands.Cog):
         if voice.is_paused():
             voice.resume()
             await ctx.send("Resumed the music player.")
+            global VCautoleave
             VCautoleave = 0
         else:
             await ctx.send("The audio is not paused.")
+            global VCautoleave
             VCautoleave = 0
 
     @commands.command(
@@ -179,6 +188,7 @@ class Music(commands.Cog):
     async def stop(self, ctx):
         """Annoy your friends by skipping their favourite songs!"""
         voice = discord.utils.get(self.bot.voice_clients, guild=ctx.guild)
+        global VCautoleave
         VCautoleave = 0
         voice.stop()
         await ctx.send("Skipped the current track.")
@@ -188,6 +198,7 @@ class Music(commands.Cog):
         description='Shows contents of queue (excluding currently playing).')
     async def queue(self, ctx):
         """Shows the queue (minus the currently playing. That's another command.)"""
+        global VCautoleave
         VCautoleave = 0
         user = ctx.message.author
         pfp = user.avatar_url
@@ -205,6 +216,7 @@ class Music(commands.Cog):
         description='Shows the currently playing song.')
     async def nowplaying(self, ctx):
         """Shows the currently playing song. Even though you should know what it is already."""
+        global VCautoleave
         VCautoleave = 0
         title = nowPlayTitle[0]
         length = nowPlayDuration[0]
@@ -225,6 +237,7 @@ class Music(commands.Cog):
         voice = discord.utils.get(self.bot.voice_clients, guild=ctx.guild)
         if voice.is_connected():
             await voice.disconnect()
+            global VCautoleave
             VCautoleave = 0
             global VCleave
             VCleave = 69420
@@ -245,6 +258,7 @@ class Music(commands.Cog):
         description='In OrDeR tO eNsUrE tHe SeCuRiTy, AnD cOnTiNuInG sTaBiLiTy,')
     async def palpcrack(self, ctx):
         """Darth Sidious.exe is not responding"""
+        global VCautoleave
         VCautoleave = 0
         voiceChannel=ctx.message.author.voice.channel
         voice = discord.utils.get(self.bot.voice_clients, guild=ctx.guild)
@@ -263,6 +277,7 @@ class Music(commands.Cog):
         description="I'm blue, da ba dee da ba die")
     async def bluegletranslate(self, ctx):
         """Google Translate sings the hit 90s song I'm Blue by Eiffel 65."""
+        global VCautoleave
         VCautoleave = 0
         voiceChannel=ctx.message.author.voice.channel
         voice = discord.utils.get(self.bot.voice_clients, guild=ctx.guild)
@@ -281,6 +296,7 @@ class Music(commands.Cog):
         description='You know the rules, and so do I...')
     async def rickRoll(self, ctx):
         """You know the rules, and so do I..."""
+        global VCautoleave
         VCautoleave = 0
         voiceChannel=ctx.message.author.voice.channel
         voice = discord.utils.get(self.bot.voice_clients, guild=ctx.guild)
@@ -299,6 +315,7 @@ class Music(commands.Cog):
         description='So we back in the mine...')
     async def revengetranslate(self, ctx):
         """Google Translate becomes an epic Minecraft Gamer and kills Technoblade"""
+        global VCautoleave
         VCautoleave = 0
         voiceChannel=ctx.message.author.voice.channel
         voice = discord.utils.get(self.bot.voice_clients, guild=ctx.guild)
@@ -317,6 +334,7 @@ class Music(commands.Cog):
         description='TAKE THIS!')
     async def itsnouse(self, ctx):
         """Silver is my favourite Sonic character, and deserves to be here."""
+        global VCautoleave
         VCautoleave = 0
         voiceChannel=ctx.message.author.voice.channel
         voice = discord.utils.get(self.bot.voice_clients, guild=ctx.guild)

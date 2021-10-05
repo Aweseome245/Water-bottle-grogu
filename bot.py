@@ -26,4 +26,4 @@ async def on_ready():
     await client.change_presence(status=discord.Status.online, activity=discord.Game('w!help for commands'))
     print('Bot ready.')
 
-client.run('Nzk1OTk0MjY2NDYzMzcxMjk2.X_RdbQ.in0sHR6Md9eWQF47jWIvGZJrt4A')
+client.run('My token.')

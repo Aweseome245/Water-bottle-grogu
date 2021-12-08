@@ -8,8 +8,8 @@ import youtube_dl
 from discord.ext import commands
 from discord.utils import get
 
-reddit = praw.Reddit(client_id='p03M1i1KZqfabA',
-                     client_secret='EQex0eQntJu-bFOKTQMy809J2tx9Kg',
+reddit = praw.Reddit(client_id='my id',
+                     client_secret='my client secret',
                      user_agent='windows:MyExampleApp:v1 (by u/YaBoi245)',
                      check_for_async=False)
 

@@ -42,7 +42,7 @@ class BotCommands(commands.Cog):
         elif aweseome245on == "1":
             await ctx.send("My developer is online, and is available to speak to!")
         else:
-            await ctx.send("My developer is online, but is currently doing schoolwork.")
+            await ctx.send("My developer is online, but is currently working.")
 
 def setup(bot):
     bot.add_cog(BotCommands(bot))
